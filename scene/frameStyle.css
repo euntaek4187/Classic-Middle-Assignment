@@ -1,0 +1,115 @@
+.all{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+@font-face {
+    font-family: "Hanna";
+    src: url("../BM-font-package/fonts/ttf/BMHANNAPro.ttf");
+}
+@font-face {
+    font-family: "Hanna2";
+    src: url("../BM-font-package/fonts/ttf/BMJUA_ttf.ttf");
+}
+
+#logo{
+    position: relative;
+    font-family: "Hanna";
+    font-size: 45px;
+    right: 180px;
+    top: 10px;
+}
+
+.title{
+    display: flex;
+}
+.title h3{
+    font-family: "Hanna";
+    position: relative;
+    left: 170px;
+    top: 35px;
+
+}
+.cate{
+    position: relative;
+    right: 435px;
+    top: 50px;
+}
+.work{
+    display: flex;
+    font-family: "Hanna2";
+    font-size: 19px;
+}
+.work h2{
+    margin: 20px;
+    position: relative;
+    right: 60px;
+    bottom: 5px;
+}
+.work a{
+    text-decoration: none;
+    color: rgb(43, 43, 43);
+}
+.line{
+    position: relative;
+    bottom: 25px;
+}
+
+/* 여기까지가 메인 로고 */
+
+/* 작가소개 */
+.writer{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 30px;
+    right: 370px;
+}
+
+.johnson{
+    display: flex;
+}
+
+#johnsonText{
+    position: relative;
+    left: 30px;
+}
+
+#life{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 42px;
+    left: 15px;
+}
+
+
+/* 작품소개 */
+.introduce{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 30px;
+    right: 370px;
+}
+
+.jemok{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 23px;
+    right: 310px;
+    bottom: 40px;
+}
+.jemok2{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 20px;
+    right: 377px;
+    bottom: 40px;
+}
+.jemokPic{
+    position: relative;
+    right: 240px;
+    bottom: 40px;
+}
