@@ -4,6 +4,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    min-width : 1200px;
+}
+
+.work h2:hover{
+    color: blue;
 }
 
 

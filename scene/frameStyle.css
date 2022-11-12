@@ -4,6 +4,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    min-width : 1200px;
+}
+
+.work h2:hover{
+    color: blue;
 }
 
 
@@ -112,4 +117,152 @@
     position: relative;
     right: 240px;
     bottom: 40px;
+}
+.story{
+    position: relative;
+    left: 85px;
+    bottom: 45px;
+}
+
+/* 작품분석 */
+.analysis{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 30px;
+    right: 370px;
+}
+.analysis1{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 23px;
+    right: 320px;
+    bottom: 40px;
+}
+
+.hosu{
+    display: flex;
+    position: relative;
+    right: 20px;
+    bottom: 20px;
+}
+
+#hosuText{
+    position: relative;
+    left: 30px;
+    bottom: 15px;
+}
+
+.analysis2{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 23px;
+    right: 330px;
+}
+.analysis3{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 27px;
+    right: 230px;
+    top: 30px;
+}
+.mist{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 23px;
+    right: 370px;
+}
+.stick{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 23px;
+    right: 415px;
+}
+.gang{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 23px;
+    right: 370px;
+}
+
+
+.analysis4{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 27px;
+    right: 100px;
+    top: 30px;
+}
+
+.mistIn{
+    position: relative;
+    right: 250px;
+}
+
+.mistInHosu{
+    position: relative;
+}
+
+.gangIn{
+    display: flex;
+}
+
+#gangHosu{
+    position: relative;
+    left: 30px;
+}
+
+.granfa{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 23px;
+    right: 290px;
+}
+
+.miso{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 23px;
+    right: 370px;
+}
+
+.man{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 23px;
+    right: 280px;
+}
+
+/* 작품 소감 */
+
+.impression{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 30px;
+    right: 370px;
+}
+
+/* 참고문헌 */
+
+.reference{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 30px;
+    position: relative;
+}
+
+.reference2{
+    font-family: "Hanna2";
+    position: relative;
+    font-size: 23px;
+    left: 10px;
+}
+
+.infomation h2{
+    font-family: "Hanna2";
+    font-size: 27px;
+}
+
+.infomation{
+    position: relative;
+    right: 90px;
 }
